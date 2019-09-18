@@ -1,5 +1,19 @@
 .border-parrafo{
     border: 1px solid red; 
-    padding: 20px
+    padding: 20px;
 }
+.texto{
+    text-align: center;
+}
+.display{
+    display: inline-block;
+    width: 15%;
+    border: 2px solid black;
+    padding: 7px;
+    text-align: left;
+    vertical-align: top;
+    background-image: url(https://fondos.io/wp-content/uploads/2019/01/pastel-color-wallpapers-hd_1113.jpghttps://image.freepik.com/vector-gratis/diseno-fondo-semitono-oscuro-abstracto_1017-15505.jpg)
+    
 
+
+}
