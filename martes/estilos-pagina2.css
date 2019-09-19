@@ -2,18 +2,31 @@
     border: 1px solid red; 
     padding: 20px;
 }
+
 .texto{
     text-align: center;
+    width: 100%;
+    margin: auto
 }
-.display{
-    display: inline-block;
-    width: 15%;
+.columna1{
+    width: 50%;
+    float: left;
+    border-radius: 5px;
+
+}
+.columna2{
     border: 2px solid black;
-    padding: 7px;
-    text-align: left;
-    vertical-align: top;
-    background-image: url(https://fondos.io/wp-content/uploads/2019/01/pastel-color-wallpapers-hd_1113.jpghttps://image.freepik.com/vector-gratis/diseno-fondo-semitono-oscuro-abstracto_1017-15505.jpg)
+
+}
+.redondo{
+    border-radius: 50%;
+    background-color: green;
+    line-height: 150px;
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    color: antiquewhite;
     
-
-
 }
