@@ -1,9 +1,13 @@
 .fondo{
-    background-image: url('fondo2.jpg');
+    /*background-image: url('fondo2.jpg');*/
     width: 100vw;
-    height: 100vw;
-    background-size: cover;
-    background-repeat: no-repeat;  
+    height: 100vh;
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+
+    background: url('img/fondo2.jpg') center no-repeat;
+    background-size: 100%;
+
 }
 body{
     margin: 0;
